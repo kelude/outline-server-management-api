@@ -1,0 +1,14 @@
+{
+    "name": "daqimei/outline-server-management-api",
+    "description": "",
+    "keywords": ["php", "laravel", "metadata"],
+    "homepage": "http://github.com/daqimei/outline-server-management-api",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "guzzlehttp/guzzle": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {"Daqimei\\": "src"}
+    }
+}
